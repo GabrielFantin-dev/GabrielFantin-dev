@@ -1,5 +1,5 @@
 # GabrielFantin-dev
-Repositorio Pessoal.
+
 # 👋 Olá, eu sou GabrielFantin.
 
 💻 Estudante de Desenvolvimento de Software
