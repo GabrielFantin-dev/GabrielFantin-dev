@@ -9,20 +9,11 @@
 - ☕ Java
 - 🐙 Git & GitHub
 - 🇺🇸 Inglês
-
-## 🚀 Projeto atual
-
-### Sistema de Cadastro em Java
-
-Um projeto desenvolvido durante meus estudos para
-praticar lógica de programação e conceitos de Java.
+- POO
 
 Atualmente estou trabalhando em:
 
-- Variáveis
-- Condições
-- Loops
-- Arrays
+- Programação Orientada Objeto.
 
 ## 🎯 Objetivos
 
