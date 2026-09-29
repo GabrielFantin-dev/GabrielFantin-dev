@@ -1,7 +1,5 @@
 <h1 align="center">Gabriel Fantin</h1>
 
-<p align="center">
-  <strong>Full Stack Developer</strong>
 </p>
 
 # 👋 Olá, eu sou GabrielFantin.
